@@ -1,0 +1,9 @@
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\ClanMon\ClanMon\bin\Release\ClanMon.exe.config
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\ClanMon\ClanMon\bin\Release\ClanMon.exe
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\ClanMon\ClanMon\bin\Release\ClanMon.pdb
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\ClanMon\ClanMon\obj\Release\ClanMon.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\ClanMon\ClanMon\obj\Release\ClanMon.frmClanMon.resources
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\ClanMon\ClanMon\obj\Release\ClanMon.Properties.Resources.resources
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\ClanMon\ClanMon\obj\Release\ClanMon.csproj.GenerateResource.Cache
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\ClanMon\ClanMon\obj\Release\ClanMon.exe
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\ClanMon\ClanMon\obj\Release\ClanMon.pdb
