@@ -1,7 +1,7 @@
 ClanMon
 =======
 
-Simple C# desktop performance monitor for Windows by Nick Clancy. Tested on Windows 7 .NET v4.0.30319.
+Simple C# desktop performance monitor for Windows by Nick Clancy. Tested on Windows 7 & 8.1 .NET v4.0.30319.
 The .exe can be run as is with no additional dependencies or installation, and can be dragged around your
 desktop to where you require. Right click on the application opens up further options.
 
